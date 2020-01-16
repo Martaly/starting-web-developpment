@@ -1,0 +1,147 @@
+body{
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(168, 167, 167); 
+}
+.Intro{
+    height: auto;
+    width: 550px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    padding-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Intro img{
+  overflow:hidden;
+    -webkit-border-radius:60px;
+    -moz-border-radius:60px;
+    border-radius:60px;
+    width:120px;
+    height:120px;
+    border: 3px darkgrey solid;
+}
+.Intro h1{
+    color: crimson;
+    font-weight: bolder;
+}
+.Intro h2{
+    font-size: 20px;
+    font-weight: lighter;
+}
+.Intro p{
+    text-align: justify;
+}
+.Intro a{
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+    background-color: crimson;
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 15px;
+}
+.SocialMedia{
+    height: auto;
+    width: 550px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin:auto;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    text-align: center; 
+}
+.SocialMedia ul{
+    margin: auto;
+    padding: 0px;
+}
+.SocialMedia li{
+    display: inline-block;
+    line-height: 3;
+    margin-inline: 5px;
+    list-style-type: none;
+    padding: 20px;  
+}
+.SocialMedia a{
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(168, 167, 167);  
+}
+.SocialMedia i{
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(168, 167, 167);    
+    font-size: 30px;
+}
+.Movies{
+    height: auto;
+    width: 550px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+.Movies img{
+    width: 100px;
+    height: 150px;
+}
+.Movies h2{
+    font-size: 20px;
+    font-size: larger;
+    padding: 20px;
+    color: gray;
+}
+.Movies h3{
+    font-size: 20px;
+    font-weight: lighter;   
+    text-align: center;
+}
+.Movies span{
+    font-size: 20px;
+    font-weight: lighter;
+    background-color: rgb(168, 167, 167); 
+}
+.bloc1{
+    display: inline-block;
+    
+}
+.bloc2{
+    display: inline-block;
+    
+}
+.bloc3{
+    display: inline-block;
+    
+}
+.section1{
+    float: left;
+    margin: 20px;
+}
+.section2{
+    float: left;
+    margin: 20px;
+}
+.section3{
+    float: left;
+    margin: 20px;
+}
+.section4{
+    text-align: justify;
+    padding: 10px;
+    margin-left: 100px;
+    color: grey;
+    font-size: larger;
+    
+}
+
+
+
+
